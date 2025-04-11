@@ -18,7 +18,7 @@ Este projeto é uma página web simples, criada como exercício prático durante
 - CSS3  
 
 ## 🔗 Veja o Projeto Online  
-👉 [Clique aqui para acessar o Chalé Hotel](https://catiamaine.github.io/Chal-Hotel/)
+👉 [Clique aqui para acessar o Chalé Hotel](https://catiamaine.github.io/Chale-Hotel/)
 
 ---
 
